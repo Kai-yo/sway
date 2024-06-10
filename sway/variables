@@ -1,0 +1,5 @@
+set $term kitty
+set $browser chromium --enable-features=UseOzonePlatform --ozone-platform=wayland
+set $filemanager nemo
+set $editor gedit
+set $exit $launcher
